@@ -6,7 +6,17 @@
     <description>Recent content in Post on Una&#39;s Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Sat, 23 Jul 2022 22:00:00 +0800</lastBuildDate><atom:link href="https://uuuna2233.github.io/categories/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 17 Nov 2023 20:00:00 +0800</lastBuildDate><atom:link href="https://uuuna2233.github.io/categories/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Power BI 中 Python 的優雅應用</title>
+      <link>https://uuuna2233.github.io/blog/powerbi-with-python/</link>
+      <pubDate>Fri, 17 Nov 2023 20:00:00 +0800</pubDate>
+      
+      <guid>https://uuuna2233.github.io/blog/powerbi-with-python/</guid>
+      <description>Photo by @allison_horst
+資料採集 Seaborn is a Python data visualization library based on matplotlib.</description>
+    </item>
+    
     <item>
       <title>MongoDB 存取全台空氣品質指標 Part 1</title>
       <link>https://uuuna2233.github.io/blog/mongodb-in-python-part1/</link>

@@ -5,10 +5,13 @@
     <loc>https://uuuna2233.github.io/categories/</loc>
     <lastmod>2023-11-17T20:00:00+08:00</lastmod>
   </url><url>
+    <loc>https://uuuna2233.github.io/categories/post/</loc>
+    <lastmod>2023-11-17T20:00:00+08:00</lastmod>
+  </url><url>
     <loc>https://uuuna2233.github.io/tags/power-bi/</loc>
     <lastmod>2023-11-17T20:00:00+08:00</lastmod>
   </url><url>
-    <loc>https://uuuna2233.github.io/categories/project/</loc>
+    <loc>https://uuuna2233.github.io/blog/powerbi-with-python/</loc>
     <lastmod>2023-11-17T20:00:00+08:00</lastmod>
   </url><url>
     <loc>https://uuuna2233.github.io/tags/python/</loc>
@@ -18,9 +21,6 @@
     <lastmod>2023-11-17T20:00:00+08:00</lastmod>
   </url><url>
     <loc>https://uuuna2233.github.io/</loc>
-    <lastmod>2023-11-17T20:00:00+08:00</lastmod>
-  </url><url>
-    <loc>https://uuuna2233.github.io/blog/powerbi-with-python/</loc>
     <lastmod>2023-11-17T20:00:00+08:00</lastmod>
   </url><url>
     <loc>https://uuuna2233.github.io/tags/aws/</loc>
@@ -38,6 +38,9 @@
     <loc>https://uuuna2233.github.io/blog/minecraft-log/</loc>
     <lastmod>2022-08-20T20:00:00+08:00</lastmod>
   </url><url>
+    <loc>https://uuuna2233.github.io/categories/project/</loc>
+    <lastmod>2022-08-20T20:00:00+08:00</lastmod>
+  </url><url>
     <loc>https://uuuna2233.github.io/tags/linux/</loc>
     <lastmod>2022-08-04T20:00:00+08:00</lastmod>
   </url><url>
@@ -51,9 +54,6 @@
     <lastmod>2022-07-23T22:00:00+08:00</lastmod>
   </url><url>
     <loc>https://uuuna2233.github.io/blog/mongodb-in-python-part1/</loc>
-    <lastmod>2022-07-23T22:00:00+08:00</lastmod>
-  </url><url>
-    <loc>https://uuuna2233.github.io/categories/post/</loc>
     <lastmod>2022-07-23T22:00:00+08:00</lastmod>
   </url><url>
     <loc>https://uuuna2233.github.io/about/</loc>
